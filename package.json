@@ -1,0 +1,16 @@
+{
+  "name": "yopiilab.mathtesting",
+  "version": "0.0.1",
+  "description": "for math testing project",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "yopiilab@gmail.com",
+  "license": "ISC",
+  "dependencies": {
+    "assert": "^2.0.0",
+    "percom": "^1.1.3"
+  }
+}
